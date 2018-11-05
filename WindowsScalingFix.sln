@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WindowsScalingFix", "WindowsScalingFix\WindowsScalingFix.vbproj", "{B49909BD-4D36-45A5-BFF0-67F27719EB04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B49909BD-4D36-45A5-BFF0-67F27719EB04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B49909BD-4D36-45A5-BFF0-67F27719EB04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B49909BD-4D36-45A5-BFF0-67F27719EB04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B49909BD-4D36-45A5-BFF0-67F27719EB04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A210CD32-D00D-49AF-9623-A8C1743A422A}
+	EndGlobalSection
+EndGlobal
